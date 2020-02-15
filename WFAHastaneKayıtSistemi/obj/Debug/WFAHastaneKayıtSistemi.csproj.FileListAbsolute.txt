@@ -1,0 +1,10 @@
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAHastaneKayıtSistemi\WFAHastaneKayıtSistemi\bin\Debug\WFAHastaneKayıtSistemi.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAHastaneKayıtSistemi\WFAHastaneKayıtSistemi\bin\Debug\WFAHastaneKayıtSistemi.exe
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAHastaneKayıtSistemi\WFAHastaneKayıtSistemi\bin\Debug\WFAHastaneKayıtSistemi.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAHastaneKayıtSistemi\WFAHastaneKayıtSistemi\obj\Debug\WFAHastaneKayıtSistemi.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAHastaneKayıtSistemi\WFAHastaneKayıtSistemi\obj\Debug\WFAHastaneKayıtSistemi.Form1.resources
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAHastaneKayıtSistemi\WFAHastaneKayıtSistemi\obj\Debug\WFAHastaneKayıtSistemi.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAHastaneKayıtSistemi\WFAHastaneKayıtSistemi\obj\Debug\WFAHastaneKayıtSistemi.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAHastaneKayıtSistemi\WFAHastaneKayıtSistemi\obj\Debug\WFAHastaneKayıtSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAHastaneKayıtSistemi\WFAHastaneKayıtSistemi\obj\Debug\WFAHastaneKayıtSistemi.exe
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAHastaneKayıtSistemi\WFAHastaneKayıtSistemi\obj\Debug\WFAHastaneKayıtSistemi.pdb
